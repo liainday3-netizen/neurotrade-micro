@@ -1,1 +1,4 @@
-bm9kZV9tb2R1bGVzLwpkaXN0LwouZW52CioubG9jYWwK
+node_modules/
+dist/
+.env
+*.local

@@ -1,1 +1,9 @@
-aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JwppbXBvcnQgUmVhY3RET00gZnJvbSAncmVhY3QtZG9tL2NsaWVudCcKaW1wb3J0IE1pY3JvQ2FwaXRhbEJyYWluIGZyb20gJy4vTmV1cm9UcmFkZU1pY3JvLmpzeCcKClJlYWN0RE9NLmNyZWF0ZVJvb3QoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKSkucmVuZGVyKAogIDxSZWFjdC5TdHJpY3RNb2RlPgogICAgPE1pY3JvQ2FwaXRhbEJyYWluIC8+CiAgPC9SZWFjdC5TdHJpY3RNb2RlPgopCg==
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import MicroCapitalBrain from './NeuroTradeMicro.jsx'
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <MicroCapitalBrain />
+  </React.StrictMode>
+)
